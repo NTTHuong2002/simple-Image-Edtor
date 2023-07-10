@@ -5,7 +5,7 @@ Giao diện chính của ứng dụng:
 <img width="223" alt="image" src="https://github.com/NTTHuong2002/simple-Image-Edtor/assets/130816726/f94df480-8837-44d6-a527-fc50813ada3d">
 <img width="225" alt="image" src="https://github.com/NTTHuong2002/simple-Image-Edtor/assets/130816726/7b1e273a-75a5-4524-8fe4-1be81e0e1517">
 
-
+Chức năng
 
 <img width="235" alt="image" src="https://github.com/NTTHuong2002/simple-Image-Edtor/assets/130816726/6f25d775-3130-41b3-97b6-a6423e3dbb39">
 
